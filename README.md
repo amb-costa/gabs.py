@@ -17,7 +17,7 @@ $ git config --global user.email yournew@email.com
 $ git config --global user.name yournewgoodname
 ```
 
-- Check ![this tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) for the most common commands:
+- Check [this tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) for the most common commands:
 ```
 $ git add
 $ git commit #add -m "message here" if you wanna add a message
@@ -40,19 +40,19 @@ $ git add . #adds every file
 $ git commit -m "your message here"
 $ git push
 ```
-Keep in mind, these changes are staged to your own repo! not the master one
+Keep in mind, these changes are staged to your own repo! not the main one
 
-* Wanna merge your repo to the master branch? First, make sure there are no changes made before you try, and solve any issues that may appear:
+### Wanna try merging?
+* First, make sure there are no changes made before you try, and solve any issues that may appear:
 ```
 $ git pull
 ```
 
-* Then, merge your branch with the master one:
+* Then, merge your branch with the main one:
 ```
 $ git merge
 ```
-Now, your changes will appear on the master branch, and not just your fork!
+Now, your changes will appear on the main branch, and not just your fork!
 
-
-
-
+### Any doubts? You can always check the [Git Documentation on Branches](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) to find more info
+### Happy commit!
