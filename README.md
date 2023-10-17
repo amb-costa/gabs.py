@@ -54,5 +54,5 @@ $ git merge
 ```
 Now, your changes will appear on the main branch, and not just your fork!
 
-### Any doubts? You can always check the [Git Documentation on Branches](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) to find more info
+### Any doubts? You can always check the [Git Documentation on Branches](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) to find more info, or the [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) page on GitHub Docs. Here's a list on [10 Git tutorials for beginners](https://www.webfx.com/blog/web-design/git-tutorials-beginners/), and here's a specific page for [Learning Git Branching](https://learngitbranching.js.org/).
 ### Happy commit!
