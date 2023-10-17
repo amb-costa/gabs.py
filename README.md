@@ -3,7 +3,7 @@
 <h3 align="center">For Git teaching purposes</h3>
 <h6 align="center">Small code on Python so we can fork and merge</h6>
 
-- First of all, are your credentials in VS Code already set? 
+### First of all, are your credentials in VS Code already set? 
 
 1.- Check your data by writing on the terminal:
 ```
@@ -28,7 +28,7 @@ $ git merge #useful when working with forks
 
 - Make sure you got GitHub Pull Request and Issues extension on VS Code, as well
 
-- Let's fork! 
+### Let's fork! 
 
 * Click `Fork` on this page and create your own fork off this repo
 
@@ -52,5 +52,7 @@ $ git pull
 $ git merge
 ```
 Now, your changes will appear on the master branch, and not just your fork!
+
+
 
 
