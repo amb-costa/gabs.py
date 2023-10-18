@@ -1,4 +1,4 @@
-# gabs.py
+# gabs.py primer cambio lll
 <h1 align="center">Small tutorial for Gabs</h1>
 <h3 align="center">For Git teaching purposes</h3>
 <h6 align="center">Small code on Python so we can fork and merge</h6>
