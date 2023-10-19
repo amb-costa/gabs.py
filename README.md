@@ -1,4 +1,4 @@
-# gabs.py actual change
+# gabs.py
 <h1 align="center">Small tutorial for Gabs</h1>
 <h3 align="center">For Git teaching purposes</h3>
 <h6 align="center">Small code on Python so we can fork and merge</h6>
@@ -23,7 +23,6 @@ $ git add
 $ git commit #add -m "message here" if you wanna add a message
 $ git push
 $ git pull
-$ git merge #useful when working with forks
 ```
 
 - Make sure you got GitHub Pull Request and Issues extension on VS Code, as well
@@ -47,12 +46,9 @@ Keep in mind, these changes are staged to your own repo! not the main one
 ```
 $ git pull
 ```
-
-* Then, merge your branch with the main one:
-```
-$ git merge
-```
-Now, your changes will appear on the main branch, and not just your fork!
+* If there's issues, you will have to solve them using the merge editor 
+* You won't be able to instantly merge because of this repo' settings. Instead, go to `Pull Request` and make one, I'll look into it and accept the merge if everything is cool. Then, your commits will appear on the main branch!
+* Keep in mind, you might have to sync changes in your fork. Check your fork and clic `Sync Fork` if that's the case, and make changes to your code if neccessary
 
 ### Any doubts? You can always check the [Git Documentation on Branches](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) to find more info, or the [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) page on GitHub Docs. Here's a list on [10 Git tutorials for beginners](https://www.webfx.com/blog/web-design/git-tutorials-beginners/), and here's a specific page for [Learning Git Branching](https://learngitbranching.js.org/).
 ### Happy commit!
